@@ -1,0 +1,4 @@
+name:duchenxi
+age:1.7
+sex:girl
+like:play
